@@ -1,2 +1,2 @@
-# wp-ide
+# クラウドIDEでWordPress
 ブラウザで開発環境
